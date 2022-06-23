@@ -5,3 +5,4 @@ After that, we carried out the analysis process and chose the data that we will 
 
 After that, we extracted the tables and put them in the Tableau program, and we visualized the data on the data and made a visualization for each table,
 Then we created a dashboard to collect all the graphs in it.
+This is the dashboard link in Tableau(https://public.tableau.com/app/profile/omar.alamoudi/viz/SupermartGrocerySales-RetailAnalyticsDataset/Dashboard1?publish=yes)
